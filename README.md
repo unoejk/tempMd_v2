@@ -1001,6 +1001,24 @@ HTTP/2 обеспечивает более эффективное использ
 Кубок тестирования
 там будут unit тесты и операционные тесты
 
+https://habr.com/ru/companies/ecom_tech/articles/704342/
+https://testengineer.ru/frontend-testing-guide/
+https://forproger.ru/article/testirovanie-prilozhenij-s-pomoshhyu-jest-i-react-testing-library
+
+### 5.4.0 Что я использую
+
+Доступность:
+WAVE — лучшее расширение для браузеров Chrome, Firefox или Microsoft Edge
+
+Jest - это среда тестирования JavaScript, которая позволяет разработчикам запускать тесты на коде JavaScript и
+TypeScript и хорошо интегрируется с React.
+
+React Testing Library - это утилита для тестирования JavaScript, созданная специально для тестирования компонентов
+React. Он имитирует взаимодействие пользователя с изолированными компонентами и утверждает их выходные данные, чтобы
+гарантировать правильное поведение пользовательского интерфейса.
+
+WebdriverCSS - на тестирование визуальной регрессии
+
 ### 5.4.1 Пирамида тестирования
 
 - верх
