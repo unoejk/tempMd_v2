@@ -238,7 +238,7 @@ const MemoComp = memo(CompName, (oldProps, newProps)=>{
 
 ---
 
-### 1.7 useTransition и useDefaultValue
+## 1.7 useTransition и useDefaultValue
 
 - Интересные хуки связанные с оптимизацией рендеринга: useTransition и useDefaultValue?
 
@@ -255,7 +255,7 @@ const [isPending, startTransition]=useTransition()
 Флаг isPending, который сообщает, есть ли ожидающий переход.
 Функция startTransition, позволяющая пометить обновление состояния как переход.
 
-## 1.7.2 useDeferredValue
+### 1.7.2 useDeferredValue
 
 https://reactdev.ru/reference/react/useDeferredValue/
 
