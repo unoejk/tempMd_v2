@@ -238,11 +238,11 @@ const MemoComp = memo(CompName, (oldProps, newProps)=>{
 
 ---
 
-## 1.7 useTransition и useDefaultValue
+### 1.7 useTransition и useDefaultValue
 
 - Интересные хуки связанные с оптимизацией рендеринга: useTransition и useDefaultValue?
 
-## 1.7.1 useTransition
+### 1.7.1 useTransition
 
 https://reactdev.ru/reference/react/useTransition/
 
